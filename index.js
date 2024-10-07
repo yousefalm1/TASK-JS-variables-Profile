@@ -12,7 +12,7 @@
 // Part 1 answer 👇🏻 ...
 
 const fullName = "Yousef Al-Masaeed";
-const yearOfBirth = "2002";
+const yearOfBirth = 2002;
 const hobby = "Jazz Music";
 const funFact = "I build lego to relax";
 const image =
